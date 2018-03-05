@@ -13,10 +13,10 @@ and with as many providers as possible without third party services.
 How to install
 ==============
 
-.. image:: https://pypip.in/v/collective.oembed/badge.png
+.. image:: https://img.shields.io/pypi/v/collective.oembed.svg
     :target: https://crate.io/packages/collective.oembed/
 
-.. image:: https://pypip.in/d/collective.oembed/badge.png
+.. image:: https://img.shields.io/pypi/dm/collective.oembed.svg
     :target: https://crate.io/packages/collective.oembed/
 
 .. image:: https://secure.travis-ci.org/collective/collective.oembed.png
